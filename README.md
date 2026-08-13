@@ -1,1 +1,2 @@
-To use the CUnit testing, pasting these two library folders into the same file as the C code will be required.
+To use the CUnit testing, you need to paste "LibCUnit" folder into the same folder as the C code.
+Without it the testting will not work.
